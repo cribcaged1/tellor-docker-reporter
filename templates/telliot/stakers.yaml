@@ -1,0 +1,12 @@
+type: StakerList
+stakers:
+- type: Staker
+  tag: my_mainnet_staker
+  address: '0xYOUR_WALLET_ADDRESS'
+  private_key: 'YOUR_PRIVATE_KEY'
+  chain_id: 1
+- type: Staker
+  tag: my_rinkeby_staker
+  address: '0xYOUR_WALLET_ADDRESS'
+  private_key: 'YOUR_PRIVATE_KEY'
+  chain_id: 4
